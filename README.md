@@ -5,5 +5,5 @@ https://pixel-perfect-replay-89861.lovable.app/
 
 ----PROMPT UTILIZADO-------------
 
-Verificar caerpeta Ejercicio 3 / Proyecto_Parche.pdf
+Verificar carpeta Ejercicio 3 / Proyecto_Parche.pdf para vizualizarlo.
 
